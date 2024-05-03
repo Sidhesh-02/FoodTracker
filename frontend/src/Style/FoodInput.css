@@ -1,0 +1,35 @@
+.FoodInput {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .FoodInput h2 {
+    margin-bottom: 10px;
+  }
+  
+  .FoodInput form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .FoodInput label {
+    margin-bottom: 10px;
+  }
+  
+  .FoodInput input {
+    padding: 5px;
+    margin-left: 10px;
+  }
+  
+  .FoodInput button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
